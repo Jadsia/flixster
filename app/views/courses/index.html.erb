@@ -7,11 +7,11 @@
     <% @courses.each do |course| %>
         <h2 class="text-center">
             <%= link_to course.title, course_path(course) %>
-            <%= image_tag @course.imgage, class: 'img-fluid' %>
+            <%= image_tag course.image.url, class: 'img-fluid' %>
         </h2>
         <br />
     <div class="row">
-        <div clss="col-sm-8 col-12">
+        <div class="col-sm-8 col-12">
             <%= course.description %>
         </div>
         <div class="col-sm-4 col-12 text-center">

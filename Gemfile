@@ -82,3 +82,5 @@ gem 'jquery-ui-rails'
 gem 'stripe'
 
 gem 'ranked-model'
+
+gem 'jquery-rails'

@@ -2,8 +2,7 @@
 
 <div class="booyah-box col-10 offset-1">
     <h1><%= @course.title %></h1>
-    <% current_course.sections.rank(:row_order).each do |section| %>
-    <%= image_tag @course.image.url, class: 'img-fluid' %>
+    <%= image_tag @course.image.url, class: 'img-fluid' if @course.image.present? %>
     <br />
 
     <div class="row">
@@ -77,4 +76,3 @@
       <% end %>
     </div>
 </div>
-<% end %>

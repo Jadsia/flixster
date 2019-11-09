@@ -1,61 +1,46 @@
-Project Purpose
+# Flixter
+
+## Project Purpose
  
-Project Requirements
+ Buildin on the skills developed with [yelpinthedark](https://github.com/Jadsia/yelpinthedark), this project integrates multiple gems to create a streaming video platform
  
-Notes and/or link to git project page
-Link to live
-Media
+## Project Requirements
  
-Screenshots or videos
+ PsogreSQL database
+ Ruby on Rails backend
+ HTML/CSS front end
+ Integrates multiple gems
+ Integrates multiple APIs
  
-Features
+Deploy: https://flixster-megan-young.herokuapp.com/
  
-·       List
+![flixter screencapture](https://user-images.githubusercontent.com/48420271/68521954-d7429a80-025a-11ea-9cfe-9cf4ad346290.JPG)
+
  
-Software Requirements
+## Features
+
+*User authenitcation
+*Video hosting
+*Course enrollment and student dashboard
+*Admin dashboard
+ 
+## Software Requirements
  
 List software versions
-Rails v.
-Ruby v.
-PostgreSQL v.
-VS code?
-JS v.
+Rails v. 5.0.0
+Ruby v. 2.6.3
+PostgreSQL
 HTML
 CSS
  
-Create Account in GitHub and Heroku
- 
-Link github sign up
-Link Heroku sign up
- 
-Configure Heroku
-Keys??
- 
-Test
-Instructions
- 
-Clone this Repository
+## Clone this Repository
 Link e.g. git clone git@github.com:clarkngo/curriculum.git
  
-Navigate to Directory
  
-Cd [name of project]
-Create, migrate and seed the database
-$ rails db:create
-$ rails db:migrate
-$ rake db:seed
- 
-Start local server
-$ rails server
- 
-Production Deployment
-$ git push heroku master
-$ heroku run rake db:migrate
- 
-Support
+## Support
 Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
 Link to “issues” on github
  
-Copyright
+## Copyright
 copyright:: (c) Copyright 2019 Megan Young. All Rights Reserved.
 

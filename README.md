@@ -6,11 +6,11 @@
  
 ## Project Requirements
  
- PsogreSQL database
- Ruby on Rails backend
- HTML/CSS front end
- Integrates multiple gems
- Integrates multiple APIs
+ * PostgreSQL database
+ * Ruby on Rails backend
+ * HTML/CSS front end
+ * Integrates multiple gems
+ * Integrates multiple APIs, including AWS
  
 Deploy: https://flixster-megan-young.herokuapp.com/
  

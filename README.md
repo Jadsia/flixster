@@ -19,10 +19,10 @@ Deploy: https://flixster-megan-young.herokuapp.com/
  
 ## Features
 
-*User authenitcation
-*Video hosting
-*Course enrollment and student dashboard
-*Admin dashboard
+* User authenitcation
+* Video hosting
+* Course enrollment and student dashboard
+* Admin dashboard
  
 ## Software Requirements
  

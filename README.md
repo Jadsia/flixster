@@ -26,15 +26,14 @@ Deploy: https://flixster-megan-young.herokuapp.com/
  
 ## Software Requirements
  
-List software versions
-Rails v. 5.0.0
-Ruby v. 2.6.3
-PostgreSQL
-HTML
-CSS
+* Rails v. 5.0.0
+* Ruby v. 2.6.3
+* PostgreSQL
+* HTML
+* CSS
  
 ## Clone this Repository
-Link e.g. git clone git@github.com:clarkngo/curriculum.git
+https://github.com/Jadsia/flixster
  
  
 ## Support

@@ -11,6 +11,7 @@
  * HTML/CSS front end
  * Integrates multiple gems
  * Integrates multiple APIs, including AWS
+ * Bootstrap integration
  
 Deploy: https://flixster-megan-young.herokuapp.com/
  
@@ -23,6 +24,7 @@ Deploy: https://flixster-megan-young.herokuapp.com/
 * Video hosting
 * Course enrollment and student dashboard
 * Admin dashboard
+
  
 ## Software Requirements
  

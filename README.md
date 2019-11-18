@@ -33,6 +33,14 @@ Deploy: https://flixster-megan-young.herokuapp.com/
 * PostgreSQL
 * HTML
 * CSS
+
+## Running this app
+
+* Clone the repository
+* Run bundle install
+* Create and migrate the PotgreSQL database with rake db:create and rake db:migrate
+* Start the server using rails server -b 0.0.0.0 -p 3000
+* Run the app on localhost:3000
  
 ## Clone this Repository
 https://github.com/Jadsia/flixster
